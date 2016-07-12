@@ -3,10 +3,10 @@
 
 ###Text protocol:
 Auth:: SourceName\r\n  
-<KEY_1>:: <Value_1>\r\n    
+KEY1:: Value1\r\n  
 ...  
 ...  
-<KEY_n>:: <Value_n>\r\n  
+KEYn:: Valuen\r\n  
 End\r\n  
 
 ###Output format:
